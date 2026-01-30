@@ -56,4 +56,4 @@ I'm a student at the 42 Barcelona campus.
 | Project | Languages used |
 | :---: | :---: |
 | [Pong_game](https://github.com/IntRogerYT/Pong-Game) | <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="30"> |
-| Todo_app | <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width="30"> |
+| [Todo_app](https://github.com/IntRogerYT/todo_app) | <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width="30"> |
