@@ -1,8 +1,7 @@
 ## Hello, i'm Roger! :wink:
 I'm a student at the 42 Barcelona campus.
-### My specialities:
 
-<h2 align="left">🛠️ Skills and Stats</h2>
+<h2 align="left">✨ Skills and Stats</h2>
 
 <table>
     <tr>
