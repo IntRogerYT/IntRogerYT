@@ -1,47 +1,17 @@
 ## Hello, i'm Roger! :wink:
 I'm a student at the 42 Barcelona campus.
 
-<h2 align="left">✨ Skills and Stats</h2>
+### ✨ Skills
 
-<table>
-    <tr>
-        <td align="center">Languages</td>
-        <td align="center">OS</td>
-        <td align="center">Development Tools</td>
-        <td align="center">Stats</td>
-    </tr>
-    <tr>
-        <td align="left">
-            <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="50" alt="C logo" />
-            <img width="12" />
-            <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" height="50" alt="Python logo" />
-            <img width="12" />
-        </td>
-      <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" height="50" alt="Linux logo" />
-            <img width="12" />
-        </td>
-      <td align="left">
-            <img src="https://github.com/user-attachments/assets/861a6331-b346-41f4-91e2-7952e7a8e241" height="50" alt="Vim logo" />
-            <img width="12" />
-            <img src="https://github.com/user-attachments/assets/e9d3f2e1-4e4e-4b68-9f7e-413bb9c0d78f" height="50" alt="VSCode logo" />
-            <img width="12" />
-        </td>
-        <td align="center">
-            <a href="#">
-                <img align="center" 
-                    src="https://komarev.com/ghpvc/?username=IntRogerYT&label=Profile%20views&color=005700&style=flat" 
-                    alt="edugs94" />
-            </a> 
-            <br>
-            <a href="#">
-                <img align="center" 
-                    src="https://img.shields.io/github/stars/IntRogerYT?style=social">
-            </a>
-        </td>
-    </tr>
-</table>
+| OS | Languages |
+| :---: | :---: |
+| <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50"> |
 
+### 🐍 My Python Toolbox
+
+| **Vector Graphics** | **Game Development** | **Web Development** | **Testing** |
+| :---: | :---: | :---: | :---: |
+| ![Static Badge](https://img.shields.io/badge/Turtle-Level%3A_High-brightgreen?logo=Python) | ![Static Badge](https://img.shields.io/badge/Pygame-Level%3A_Basic-orange?logo=Python&logoColor=green) | ![Static Badge](https://img.shields.io/badge/Flet-Level%3A_Basic-orange?logo=Python&logoColor=pink) ![Static Badge](https://img.shields.io/badge/Django-Level%3A_Basic-orange?logo=django) | ![Static Badge](https://img.shields.io/badge/Pytest-Level%3A_Medium-blue?logo=pytest) |
 ### 📝 My 42 cursus projects:
 | Milestone | Project | Languages used | Score |
 | :---: | :---: | :---: | :---: |
