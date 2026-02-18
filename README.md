@@ -1,5 +1,4 @@
-## Hello, i'm Roger! :wink:
-I'm a student at the 42 Barcelona campus.
+![Descripción](github-header-banner.png)
 
 ### ✨ Skills
 
