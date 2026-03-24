@@ -36,7 +36,27 @@
 | M0 | [Libft](https://github.com/IntRogerYT/libft) | A custom C standard library comprising over 40 essential functions recreated from scratch. This project focuses on memory management (malloc, free), string manipulation, and linked list handling. | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"> <img src="https://github.com/user-attachments/assets/2fd39e11-dfea-42ca-874e-179ec4947d20" width="30">  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile.png" width="30"> | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
 
 ### 🛠️ Other interesting projects
-| Project | Languages used |
-| :---: | :---: |
-| [Pong_game](https://github.com/IntRogerYT/Pong-Game) | <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="30"> |
-| [Todo_app](https://github.com/IntRogerYT/todo_app) | <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width="30"> |
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/fluency/96/joystick.png" alt="Pong Icon" width="60" /><br>
+      <h3>Pong_game</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">Classic Pong game implemented with Python and Turtle.</p>
+      <div align="right">
+        <a href="URL_DEL_TEU_PROJECTE"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+    <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/fluency/96/todo-list.png" alt="Todo Icon" width="60" /><br>
+      <h3>Todo_app</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">Web-based task list application using Python and HTML/CSS.</p>
+      <div align="right">
+        <a href="URL_DEL_TEU_PROJECTE"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
