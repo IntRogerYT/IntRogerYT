@@ -45,7 +45,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
       <p style="font-size: 0.9em; color: #8b949e;">Classic Pong game implemented with Python and Turtle.</p>
       <div align="right">
-        <a href="URL_DEL_TEU_PROJECTE"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+        <a href="https://github.com/IntRogerYT/Pong-Game"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
     <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br><br>
       <p style="font-size: 0.9em; color: #8b949e;">Web-based task list application using Python and HTML/CSS.</p>
       <div align="right">
-        <a href="URL_DEL_TEU_PROJECTE"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+        <a href="https://github.com/IntRogerYT/todo_app"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
   </tr>
