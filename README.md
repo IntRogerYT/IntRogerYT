@@ -31,7 +31,7 @@
   <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=BxDXJlL8qTUx&format=png&color=000000" alt="Piscine-logo" width="60" /><br>
-      <h3>Libft</h3>
+      <h3>Python-piscine</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
       <p style="font-size: 0.9em; color: #8b949e;">A set of 11 modules to introduce you to object-oriented programming (OOP) in Python.</p>
       <img src="https://img.shields.io/badge/7%2F11-grey" alt="Piscine-score">
