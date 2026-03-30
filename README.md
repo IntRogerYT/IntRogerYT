@@ -26,16 +26,67 @@
 | **Vector Graphics** | **Game Development** | **Web Development** | **Testing** |
 | :---: | :---: | :---: | :---: |
 | ![Static Badge](https://img.shields.io/badge/Turtle-Level%3A_High-brightgreen?logo=Python) | ![Static Badge](https://img.shields.io/badge/Pygame-Level%3A_Basic-orange?logo=Python&logoColor=green) | ![Static Badge](https://img.shields.io/badge/Flet-Level%3A_Basic-orange?logo=Python&logoColor=pink) ![Static Badge](https://img.shields.io/badge/Django-Level%3A_Basic-orange?logo=django) | ![Static Badge](https://img.shields.io/badge/Pytest-Level%3A_Medium-blue?logo=pytest) |
-### ![Static Badge](https://img.shields.io/badge/_-black?logo=42&logoSize=auto) Cursus Projects:
-| Milestone | Project | Description | Languages used | Score |
-| :---: | :---: | :--- | :---: | :---:|
-| M2 | [Python_piscine](https://github.com/IntRogerYT/Python-piscine) | A set of 11 modules to start with OOP in Python. | <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" width="30"> | ![Static Badge](https://img.shields.io/badge/7%2F11-grey) |
-| M2 | [push_swap](https://github.com/IntRogerYT/push_swap) | A program that sorts a list of integers using two stacks (A and B) and a sorting algorithm (in my case, radix sort). | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"> <img src="https://github.com/user-attachments/assets/2fd39e11-dfea-42ca-874e-179ec4947d20" width="30">  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile.png" width="30"> |  ![Static Badge](https://img.shields.io/badge/84%2F100-brightgreen) |
-| M1 | [get_next_line](https://github.com/IntRogerYT/get_next_line) | A function that reads from a file descriptor and returns the first line; so if it is called three times, for example, it returns the first three lines. | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"> <img src="https://github.com/user-attachments/assets/2fd39e11-dfea-42ca-874e-179ec4947d20" width="30"> | ![Static Badge](https://img.shields.io/badge/125%2F100-brightgreen) |
-| M1 | [ft_printf](https://github.com/IntRogerYT/ft_printf) | A custom implementation of the standard C printf function, utilizing variadic arguments (stdarg.h) to handle multiple data types. The project focuses on parsing format strings and managing conversions for characters, strings, pointers, integers, and hexadecimal values. | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"> <img src="https://github.com/user-attachments/assets/2fd39e11-dfea-42ca-874e-179ec4947d20" width="30">  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile.png" width="30"> | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
-| M0 | [Libft](https://github.com/IntRogerYT/libft) | A custom C standard library comprising over 40 essential functions recreated from scratch. This project focuses on memory management (malloc, free), string manipulation, and linked list handling. | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"> <img src="https://github.com/user-attachments/assets/2fd39e11-dfea-42ca-874e-179ec4947d20" width="30">  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile.png" width="30"> | ![Static Badge](https://img.shields.io/badge/100%2F100-brightgreen) |
+# ![Static Badge](https://img.shields.io/badge/_-black?logo=42&logoSize=auto) Cursus Projects:
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=BxDXJlL8qTUx&format=png&color=000000" alt="Piscine-logo" width="60" /><br>
+      <h3>Libft</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">A set of 11 modules to introduce you to object-oriented programming (OOP) in Python.</p>
+      <img src="https://img.shields.io/badge/7%2F11-grey" alt="Piscine-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/libft"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+    <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=PG4cEZIEG1nl&format=png&color=000000" alt="Push_swap-icon" width="60" /><br>
+      <h3>Push_swap</h3>
+      <img src="https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white" alt="C-logo" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">Program that sort a list of integers using two stacks and returns the moves sequence.</p>
+      <img src="https://img.shields.io/badge/100%2F100-brightgreen" alt="Push_swap-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/push_swap"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=Da9Xe1TFL49g&format=png&color=20C997" alt="GNL-icon" width="60" /><br>
+      <h3>Get_next_line</h3>
+      <img src="https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white" alt="C-logo" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">A function to get the next line from a specified file descriptor.</p>
+      <img src="https://img.shields.io/badge/125%2F100-brightgreen" alt="GNL-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/get_next_line"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+    <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=12785&format=png&color=000000" alt="Print-icon" width="60" /><br>
+      <h3>Ft_printf</h3>
+      <img src="https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white" alt="C-badge" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">Function based on the printf function from the C standard library.</p>
+      <img src="https://img.shields.io/badge/100%2F100-brightgreen" alt="ft_printf-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/ft_printf"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=23664&format=png&color=000000" alt="Libft Icon" width="60" /><br>
+      <h3>Libft</h3>
+      <img src="https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white" alt="C-badge" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">A library of functions to help you get started with C programming.</p>
+      <img src="https://img.shields.io/badge/100%2F100-brightgreen" alt="Libft-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/libft"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Other interesting projects
+## 🛠️ Other interesting projects
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
