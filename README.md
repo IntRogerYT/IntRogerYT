@@ -44,7 +44,7 @@
       <h3>Push_swap</h3>
       <img src="https://img.shields.io/badge/_-blue?style=for-the-badge&logo=c&logoColor=white" alt="C-logo" /><br><br>
       <p style="font-size: 0.9em; color: #8b949e;">Program that sort a list of integers using two stacks and returns the moves sequence.</p>
-      <img src="https://img.shields.io/badge/100%2F100-brightgreen" alt="Push_swap-score">
+      <img src="https://img.shields.io/badge/84%2F100-brightgreen" alt="Push_swap-score">
       <div align="right">
         <a href="https://github.com/IntRogerYT/push_swap"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
