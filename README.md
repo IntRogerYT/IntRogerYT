@@ -36,7 +36,7 @@
       <p style="font-size: 0.9em; color: #8b949e;">A set of 11 modules to introduce you to object-oriented programming (OOP) in Python.</p>
       <img src="https://img.shields.io/badge/8%2F11-grey" alt="Piscine-score">
       <div align="right">
-        <a href="https://github.com/IntRogerYT/libft"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+        <a href="https://github.com/IntRogerYT/python-piscine"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
     <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
