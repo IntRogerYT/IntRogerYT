@@ -44,7 +44,7 @@
       <h3>Python-piscine</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
       <p style="font-size: 0.9em; color: #8b949e;">A set of 11 modules to introduce you to object-oriented programming (OOP) in Python.</p>
-      <img src="https://img.shields.io/badge/10%2F11-grey" alt="Piscine-score">
+      <img src="https://img.shields.io/badge/11%2F11-brightgreen" alt="Piscine-score">
       <div align="right">
         <a href="https://github.com/IntRogerYT/python-piscine"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
