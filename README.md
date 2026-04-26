@@ -95,8 +95,8 @@
     </td>
   </tr>
 </table>
-## 🛠️ Other interesting projects
 
+## 🛠️ Other interesting projects
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
