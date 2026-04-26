@@ -118,5 +118,14 @@
         <a href="https://github.com/IntRogerYT/todo_app"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
+      <td style="width: 10px; border: none;"></td> <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=YvIOhIAUem1p&format=png&color=000000" alt="Simulator Icon" width="60" /><br>
+      <h3>42ExamRank3 Simulator</h3>
+      <img src="https://img.shields.io/badge/bash-grey?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">Simulator for rank3 new python exam from 42Network</p>
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/42ExamRank03_Simulator"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
   </tr>
 </table>
