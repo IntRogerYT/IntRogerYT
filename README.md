@@ -30,6 +30,16 @@
 <table style="border-collapse: separate; border-spacing: 10px;">
   <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
+      <img src="https://img.icons8.com/?size=100&id=Nv6J9PwDcFPC&format=png&color=000000" alt="Drone-logo" width="60" /><br>
+      <h3>Fly-in</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+      <p style="font-size: 0.9em; color: #8b949e;">A drone routing simulation project.</p>
+      <img src="https://img.shields.io/badge/100%2F100-brightgreen" alt="A-Maze-ing-score">
+      <div align="right">
+        <a href="https://github.com/IntRogerYT/Fly_in"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
+      </div>
+    </td>
+    <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=2EoznY9ByBXD&format=png&color=000000" alt="Maze-logo" width="60" /><br>
       <h3>A-Maze-ing</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
@@ -39,6 +49,8 @@
         <a href="https://github.com/IntRogerYT/A-Maze-ing"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=BxDXJlL8qTUx&format=png&color=000000" alt="Piscine-logo" width="60" /><br>
       <h3>Python-piscine</h3>
@@ -49,8 +61,6 @@
         <a href="https://github.com/IntRogerYT/python-piscine"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=PG4cEZIEG1nl&format=png&color=000000" alt="Push_swap-icon" width="60" /><br>
       <h3>Push_swap</h3>
@@ -61,6 +71,8 @@
         <a href="https://github.com/IntRogerYT/push_swap"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=Da9Xe1TFL49g&format=png&color=20C997" alt="GNL-icon" width="60" /><br>
       <h3>Get_next_line</h3>
@@ -71,8 +83,6 @@
         <a href="https://github.com/IntRogerYT/get_next_line"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=12785&format=png&color=000000" alt="Print-icon" width="60" /><br>
       <h3>Ft_printf</h3>
@@ -83,6 +93,8 @@
         <a href="https://github.com/IntRogerYT/ft_printf"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20"/></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td style="border: 2px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #0d1117;">
       <img src="https://img.icons8.com/?size=100&id=23664&format=png&color=000000" alt="Libft Icon" width="60" /><br>
       <h3>Libft</h3>
